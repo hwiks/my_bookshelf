@@ -2,12 +2,25 @@
 
 Simple program to keep track of my books, who I lend them to, and some stats.
 
-# Plan
+# How to look at the data
 
-1. I want a service that runs locally. It should be a simple database with get, post, del, etc. In the database, books that I own. I want to show the ones that are lent, and if so when and to whom. 
+Run:
 
-2. I want a very simple frontend to visualize the list.
+sqlite3 books.db 
 
-3. I want some more fun options to see stats of a map distribution
+to get a quick look at the tables and their schemas. Use the commands:
 
-4. It would be great to be ablet to crawl the info from goodreads to be able to find a book from their database
+.tables
+.schema books
+
+etc.
+
+Currently there is no data
+
+# How to run the API
+
+First you have to implement it
+
+# How to spin up the frontend
+
+A whole future chapter there

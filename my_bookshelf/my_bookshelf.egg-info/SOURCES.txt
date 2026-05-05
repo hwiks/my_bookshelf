@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/database.py
+src/main.py
+src/models.py
+src/my_bookshelf.egg-info/PKG-INFO
+src/my_bookshelf.egg-info/SOURCES.txt
+src/my_bookshelf.egg-info/dependency_links.txt
+src/my_bookshelf.egg-info/top_level.txt
